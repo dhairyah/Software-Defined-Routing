@@ -1,0 +1,376 @@
+INIT:
+Sending control message to: 128.205.36.46:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-48 ... Done!
+
+Sending control message to: 128.205.36.34:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-540 ... Done!
+
+Sending control message to: 128.205.36.35:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-846 ... Done!
+
+Sending control message to: 128.205.36.36:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-577 ... Done!
+
+Sending control message to: 128.205.36.33:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-143 ... Done!
+
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.46:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  00 30 00 00 00 30 00 00  |..$#...(.0...0..|
+00000010  02 1c 00 00 02 1c 00 03  03 4e 00 00 03 4e 00 01  |.........N...N..|
+00000020  02 41 00 00 02 41 00 07  00 8f 00 00 ff ff ff ff  |.A...A..........|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.34:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  00 30 00 00 00 30 00 03  |..$#...(.0...0..|
+00000010  02 1c 00 00 02 1c 00 00  03 4e 00 00 ff ff ff ff  |.........N......|
+00000020  02 41 00 00 02 41 00 02  00 8f 00 00 00 8f 00 06  |.A...A..........|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.35:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  00 30 00 00 00 30 00 01  |..$#...(.0...0..|
+00000010  02 1c 00 00 ff ff ff ff  03 4e 00 00 03 4e 00 00  |.........N...N..|
+00000020  02 41 00 00 02 41 00 01  00 8f 00 00 ff ff ff ff  |.A...A..........|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.36:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  00 30 00 00 00 30 00 07  |..$#...(.0...0..|
+00000010  02 1c 00 00 02 1c 00 02  03 4e 00 00 03 4e 00 01  |.........N...N..|
+00000020  02 41 00 00 02 41 00 00  00 8f 00 00 00 8f 00 02  |.A...A..........|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.33:6093 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  00 30 00 00 ff ff ff ff  |..$#...(.0......|
+00000010  02 1c 00 00 02 1c 00 06  03 4e 00 00 ff ff ff ff  |.........N......|
+00000020  02 41 00 00 02 41 00 02  00 8f 00 00 00 8f 00 00  |.A...A..........|
+00000030
+Starting assignment servers ...
+OK
+Reading Topology file: topology ... Done!
+
+INIT:
+Sending control message to: 128.205.36.46:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-975 ... Done!
+
+Sending control message to: 128.205.36.34:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-284 ... Done!
+
+Sending control message to: 128.205.36.35:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-471 ... Done!
+
+Sending control message to: 128.205.36.36:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-430 ... Done!
+
+Sending control message to: 128.205.36.33:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-808 ... Done!
+
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.46:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  03 cf 00 00 03 cf 00 00  |..$#...(........|
+00000010  01 1c 00 00 01 1c 00 01  01 d7 00 00 ff ff ff ff  |................|
+00000020  01 ae 00 00 ff ff ff ff  03 28 00 00 ff ff ff ff  |.........(......|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.34:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  03 cf 00 00 03 cf 00 01  |..$#...(........|
+00000010  01 1c 00 00 01 1c 00 00  01 d7 00 00 01 d7 00 02  |................|
+00000020  01 ae 00 00 ff ff ff ff  03 28 00 00 ff ff ff ff  |.........(......|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.35:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  03 cf 00 00 ff ff ff ff  |..$#...(........|
+00000010  01 1c 00 00 01 1c 00 02  01 d7 00 00 01 d7 00 00  |................|
+00000020  01 ae 00 00 01 ae 00 03  03 28 00 00 ff ff ff ff  |.........(......|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.36:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  03 cf 00 00 ff ff ff ff  |..$#...(........|
+00000010  01 1c 00 00 ff ff ff ff  01 d7 00 00 01 d7 00 03  |................|
+00000020  01 ae 00 00 01 ae 00 00  03 28 00 00 03 28 00 04  |.........(...(..|
+00000030
+Reading Topology file: topology ... Done!
+
+ROUTING-TABLE:
+Sending control message to: 128.205.36.33:6826 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   2    |   0    |       40       |
+------------------------------------
+
+Waiting for control-response payload (40 bytes) from router ... Done!
+Writing response-packet to file: response.pkt ... Done!
+00000000  80 cd 24 23 02 00 00 28  03 cf 00 00 ff ff ff ff  |..$#...(........|
+00000010  01 1c 00 00 ff ff ff ff  01 d7 00 00 ff ff ff ff  |................|
+00000020  01 ae 00 00 01 ae 00 04  03 28 00 00 03 28 00 00  |.........(...(..|
+00000030
+Starting assignment servers ...
+OK
+Reading Topology file: topology ... Done!
+
+INIT:
+Sending control message to: 128.205.36.46:58708 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-587 ... Done!
+
+Sending control message to: 128.205.36.34:58708 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-730 ... Done!
+
+Sending control message to: 128.205.36.35:58708 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
+------------------------------------
+|   1    |   0    |       0        |
+------------------------------------
+
+Waiting for control-response payload (0 bytes) from router ... Done!
+Writing response-packet to file: response.pkt-78 ... Done!
+
+Sending control message to: 128.205.36.36:58708 ... Done!
+Waiting for control-response header from router ... Done!
+Parsing header ...
+
+------------------------------------
+|          128.205.36.35           |
